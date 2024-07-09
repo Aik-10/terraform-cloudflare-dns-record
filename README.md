@@ -1,1 +1,1 @@
-# terraform-cloudflare-dns-record
+# terraform-cloudflare-dns-record-module
